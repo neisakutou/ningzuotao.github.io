@@ -2,7 +2,7 @@
 title: "DyLESC: A Dynamic LiDAR Extrinsic Self-Calibration Method for Intelligent Driving Vehicles"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2022-11-11
 venue: 'ICITE'
 paperurl: 'https://ieeexplore.ieee.org/xpl/conhome/10100965/proceeding'
