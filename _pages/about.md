@@ -1,4 +1,4 @@
-![image](https://github.com/neisakutou/ningzuotao.github.io/assets/23012567/8229d121-7c99-4fab-8b2e-5d780203580f)---
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
