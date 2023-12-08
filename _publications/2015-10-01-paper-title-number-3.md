@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "     
+
+Multi-view Based Clustering of 3D LiDAR Point Clouds for Intelligent Vehicles"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: ''
+date: 2022-12-03
+venue: 'AI'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-22695-3_5'
+citation: 'Jie, H., Ning, Z., Zhao, Q., Liu, W., Hu, J. and Gao, J., 2022, December. Multi-view Based Clustering of 3D LiDAR Point Clouds for Intelligent Vehicles. In Australasian Joint Conference on Artificial Intelligence (pp. 57-70). Cham: Springer International Publishing.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://link.springer.com/chapter/10.1007/978-3-031-22695-3_5)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Jie, H., Ning, Z., Zhao, Q., Liu, W., Hu, J. and Gao, J., 2022, December. Multi-view Based Clustering of 3D LiDAR Point Clouds for Intelligent Vehicles. In Australasian Joint Conference on Artificial Intelligence (pp. 57-70). Cham: Springer International Publishing.
