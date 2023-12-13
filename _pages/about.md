@@ -14,8 +14,8 @@ of autonomous driving vehicles and mobile robots. My recent work is the point cl
 intelligent vehicles.
 </p>
 <p align='left'>
-Peviously, I've been putting a lot work on AVP(autonomous valet parking), which is to develop motion planning
-modules on unmanned vehicles. Plus, I'm keen on HMI(Human Machine Interaction) design on Intelligent Driving System.
+Previously, I've been putting a lot work on AVP (autonomous valet parking), which is to develop motion planning
+modules on unmanned vehicles. Plus, I'm keen on HMI (Human Machine Interaction) design on Intelligent Driving System.
 </p>
 <p align='left'>
 Before that, I was doing Software Engineering and Artificial Intelligent(Robotics) on colleage respectively.
