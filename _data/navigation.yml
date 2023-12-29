@@ -6,6 +6,9 @@ main:
   - title: "Patents"
     url: /patents/
 
+  - title: "Volunteer"
+    url: /volunteer/   
+
   - title: "Talks"
     url: /talks/    
 
