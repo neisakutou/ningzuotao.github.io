@@ -10,3 +10,5 @@ location: "Shenyang, China"
 
 This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
 
+![Picture](https://github.com/neisakutou/ningzuotao.github.io/blob/master/_volunteer/imgs/volunteer_1_1.jpg?raw=true)
+
