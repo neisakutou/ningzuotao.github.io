@@ -2,7 +2,7 @@
 title: "Volunteer 1"
 collection: volunteer
 type: "Volunteer"
-permalink: /talks/volunteer_1
+permalink: /volunteer/volunteer_1
 venue: ""
 date: 2012-03-01
 location: "Shenyang, China"
