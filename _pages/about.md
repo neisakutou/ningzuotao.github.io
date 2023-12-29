@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 <p align='left'>
-Now, I am a Senior Autonomous Driving Software Engineer. My research interests lie in environmental perception
-of autonomous driving vehicles and mobile robots. My recent work is the point cloud processing on 
-intelligent vehicles.
+I am currently working as an Assistant Researcher in the field of autonomous driving. My research interests lie in environmental perception of autonomous driving vehicles and mobile robots. My recent work is the point cloud processing on intelligent vehicles.
 </p>
 <p align='left'>
 Previously, I've been putting a lot work on AVP (autonomous valet parking), which is to develop motion planning
