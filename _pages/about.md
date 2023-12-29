@@ -20,7 +20,7 @@ Before that, I was doing Software Engineering and Artificial Intelligence (Robot
 </p>
 <p align='left'>
 Still,  I aspire to extend my long-term volunteer work into an amateur research field. I aim to apply information technology and artificial intelligence to empower the elderly and visually impaired in their reading capabilities within but not limited to this certain area. I eagerly anticipate the opportunity to collaborate with scholars who share similar aspirations. 
-<br/>Shoot me an email HERE.
+<br/>👉Shoot me an email HERE.
 </p>
 
 <!--
