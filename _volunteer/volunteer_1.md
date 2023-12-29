@@ -1,10 +1,10 @@
 ---
-title: "Volunteer 1"
+title: "Special events for International Day of Persons with Disabilities and International Volunteer Day"
 collection: volunteer
 type: "Volunteer"
 permalink: /volunteer/volunteer_1
-venue: ""
-date: 2012-03-01
+venue: "Liaoning Provincial Libaray, Shenyang"
+date: 2023-12-02
 location: "Shenyang, China"
 ---
 
