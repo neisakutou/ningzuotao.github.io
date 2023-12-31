@@ -9,14 +9,13 @@ redirect_from:
 ---
 
 <p align='left'>
-I am currently working as an Assistant Researcher in the field of autonomous driving. My research interests lie in the environmental perception of autonomous driving vehicles and mobile robots. My recent work is the point cloud processing on intelligent vehicles.
+I am currently employed as an Assistant Researcher in the field of autonomous driving. My research focuses on the environmental perception of autonomous driving vehicles and mobile robots. Specifically, I am interested in the processing of point clouds in the context of intelligent vehicles. My recent work has involved exploring and developing efficient and accurate point cloud processing techniques in autonomous driving applications.
 </p>
 <p align='left'>
-Previously, I've been putting a lot of work on AVP (autonomous valet parking), which is to develop motion planning
-modules on unmanned vehicles. Plus, I'm keen on HMI (Human Machine Interaction) design on Intelligent Driving Systems.
+Previously, I have dedicated a significant amount of effort to Autonomous Valet Parking (AVP) projects, which involve developing motion planning modules for unmanned vehicles. Additionally, I have a strong interest in Human-Machine Interaction (HMI) design for Intelligent Driving Systems. 
 </p>
 <p align='left'>
-Before that, I was doing Software Engineering and Artificial Intelligence (Robotics) in college respectively.
+Before my current position, I pursued studies in Software Engineering and Artificial Intelligence(Robotics) in college.
 </p>
 <p align='left'>
 Still,  I aspire to extend my long-term volunteer work into an amateur research field. I aim to apply information technology and artificial intelligence to empower the elderly and visually impaired in their reading capabilities within but not limited to this certain area. I eagerly anticipate the opportunity to collaborate with scholars who share similar aspirations. 
