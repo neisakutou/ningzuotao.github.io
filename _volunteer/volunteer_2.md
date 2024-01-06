@@ -1,5 +1,5 @@
 ---
-title: ""2023 the winter competition of 'English Salon' concluded perfectly."
+title: "2023 the winter competition of 'English Salon' concluded perfectly."
 collection: volunteer
 type: "Volunteer"
 permalink: /volunteer/volunteer_2
