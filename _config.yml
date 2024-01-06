@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "ZUOTAO / HOMEPAGE" #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zuotao Ning"
 description              : &description "personal description"
                           #https://neisakutou.github.io/ningzuotao.github.io/
 url                      : https://neisakutou.github.io/zuotaoning.github.io/ #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
