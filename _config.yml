@@ -89,7 +89,7 @@ author:
   location         : "CN ● UK" #"Shenyang China" #"● United Kingdom"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.uk/" #"http://yourfullgooglescholarurl.com"
+  #googlescholar    : "https://scholar.google.co.uk/" #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "" #"academicpages"
+  #github           : "" #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
