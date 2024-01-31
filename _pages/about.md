@@ -14,16 +14,16 @@ redirect_from:
 </style>
 
 <p align='left'>
-I am currently employed as an Assistant Researcher in the field of <font_color>autonomous driving</font_color>. My research focuses on the environmental perception of autonomous driving vehicles and mobile robots. Specifically, I am interested in the processing of point clouds in the context of intelligent vehicles. My recent work has involved exploring and developing efficient and accurate point cloud processing techniques in autonomous driving applications.
+I am currently employed as an Assistant Researcher in the field of <font_color>autonomous driving</font_color>. My research focuses on the <font_color>environmental perception</font_color> of autonomous driving vehicles and mobile robots. Specifically, I am interested in the processing of point clouds in the context of intelligent vehicles. My recent work has involved exploring and developing efficient and accurate <font_color>point cloud processing techniques</font_color> in autonomous driving applications.
 </p>
 <p align='left'>
-Previously, I have dedicated a significant amount of effort to Autonomous Valet Parking (AVP) projects, which involve developing motion planning modules for unmanned vehicles. Additionally, I have a strong interest in Human-Machine Interaction (HMI) design for Intelligent Driving Systems. 
+Previously, I have dedicated a significant amount of effort to Autonomous Valet Parking <font_color>(AVP)</font_color> projects, which involve developing motion planning modules for unmanned vehicles. Additionally, I have a strong interest in Human-Machine Interaction <font_color>(HMI)</font_color> design for Intelligent Driving Systems. 
 </p>
 <p align='left'>
-Before my current position, I studied Software Engineering domestically and pursued a postgraduate program in Artificial Intelligence (Robotics) in the UK.
+Before my current position, I studied <font_color>Software Engineering</font_color> domestically and pursued a postgraduate program in <font_color>Artificial Intelligence (Robotics)</font_color> in the UK.
 </p>
 <p align='left'>
-Still,  I aspire to extend my long-term volunteer work into an amateur research field. I aim to apply information technology and artificial intelligence to empower the elderly and visually impaired in their reading capabilities within but not limited to this certain area. I eagerly anticipate the opportunity to collaborate with people who share similar aspirations. 
+Still,  I aspire to extend my long-term volunteer work into an <font_color>amateur research field</font_color>. I aim to apply information technology and artificial intelligence to empower the <font_color>elderly and visually impaired</font_color> in their <font_color>reading capabilities<font_color> within but not limited to this certain area. I eagerly anticipate the opportunity to collaborate with people who share similar aspirations. 
 <br/>👉Shoot me an email HERE.
 </p>
 
