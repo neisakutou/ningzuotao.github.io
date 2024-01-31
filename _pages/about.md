@@ -7,9 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  font_color{
+    color:#EE82EE
+  }
+</style>
 
 <p align='left'>
-I am currently employed as an Assistant Researcher in the field of <font color=#EE82EE>autonomous driving</font>. My research focuses on the environmental perception of autonomous driving vehicles and mobile robots. Specifically, I am interested in the processing of point clouds in the context of intelligent vehicles. My recent work has involved exploring and developing efficient and accurate point cloud processing techniques in autonomous driving applications.
+I am currently employed as an Assistant Researcher in the field of <font_color>autonomous driving</font_color>. My research focuses on the environmental perception of autonomous driving vehicles and mobile robots. Specifically, I am interested in the processing of point clouds in the context of intelligent vehicles. My recent work has involved exploring and developing efficient and accurate point cloud processing techniques in autonomous driving applications.
 </p>
 <p align='left'>
 Previously, I have dedicated a significant amount of effort to Autonomous Valet Parking (AVP) projects, which involve developing motion planning modules for unmanned vehicles. Additionally, I have a strong interest in Human-Machine Interaction (HMI) design for Intelligent Driving Systems. 
