@@ -23,7 +23,7 @@ Previously, I have dedicated a significant amount of effort to Autonomous Valet 
 Before my current position, I studied <font_color>Software Engineering</font_color> domestically and pursued a postgraduate program in <font_color>Artificial Intelligence (Robotics)</font_color> in the UK.
 </p>
 <p align='left'>
-Still,  I aspire to extend my long-term volunteer work into an <font_color>amateur research field</font_color>. I aim to apply information technology and artificial intelligence to empower the <font_color>elderly and visually impaired</font_color> in their <font_color>reading capabilities<font_color> within but not limited to this certain area. I eagerly anticipate the opportunity to collaborate with people who share similar aspirations. 
+Still,  I aspire to extend my long-term volunteer work into an <font_color>amateur research field</font_color>. I aim to apply information technology and artificial intelligence to empower the <font_color>elderly and visually impaired</font_color> in their <font_color>reading capabilities</font_color> within but not limited to this certain area. I eagerly anticipate the opportunity to collaborate with people who share similar aspirations. 
 <br/>👉Shoot me an email HERE.
 </p>
 
